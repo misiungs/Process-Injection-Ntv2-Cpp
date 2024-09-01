@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\misiu\Documents\GitHub\Process-Injection-Ntv2-Cpp\Process-Injection-Ntv2-Cpp\Process-Injection-Ntv2-Cpp\Main.cpp(48,25): warning C4312: 'type cast': conversion from 'DWORD' to 'PVOID' of greater size
+C:\Users\misiu\Documents\GitHub\Process-Injection-Ntv2-Cpp\Process-Injection-Ntv2-Cpp\Process-Injection-Ntv2-Cpp\Main.cpp(62,35): warning C4838: conversion from 'SIZE_T' to 'DWORD' requires a narrowing conversion
+C:\Users\misiu\Documents\GitHub\Process-Injection-Ntv2-Cpp\Process-Injection-Ntv2-Cpp\Process-Injection-Ntv2-Cpp\Main.cpp(62,35): warning C4244: 'initializing': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+  Process-Injection-Ntv2-Cpp.vcxproj -> C:\Users\misiu\Documents\GitHub\Process-Injection-Ntv2-Cpp\Process-Injection-Ntv2-Cpp\x64\Debug\Process-Injection-Ntv2-Cpp.exe
